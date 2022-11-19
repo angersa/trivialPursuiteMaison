@@ -1,0 +1,8 @@
+# Géographie
+
+question: "Quelle est la capitale de la Namibie?"
+reponse: "Windhoek"
+
+question: "Quel fleuve coule à travers la ville de Turin?"
+reponse: "Pô"
+
